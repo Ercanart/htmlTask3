@@ -1,6 +1,6 @@
 # htmlTask3
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz bir repo. İçerisinde bir adet  
-README dosyası, bir adet .gitignore, bir adet de index.html barındırıyor.  
+README.md dosyası, bir adet .gitignore, bir adet de index.html barındırıyor.  
 ## Installation  
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)  
 ```
@@ -16,10 +16,6 @@ cd htmlTask3
 code .
 
 ```
-## Contributing
-Pull requestler  kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek  
-istediğinizi tartışmak için konu açınız.
-
 
 ![repoImage](images2/odev3.png)
 
